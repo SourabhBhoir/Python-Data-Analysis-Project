@@ -1,0 +1,16 @@
+Order_ID,Order_Date,Customer_ID,Gender,Age,Region,Product_Category,Quantity,Price
+1001,2024-01-05,C001,Male,25,West,Electronics,2,15000
+1002,2024-01-07,C002,Female,32,North,Clothing,3,1200
+1003,2024-01-10,C003,Female,45,South,Grocery,5,200
+1004,2024-01-12,C004,Male,29,East,Electronics,1,22000
+1005,2024-01-15,C005,Female,38,West,Clothing,4,1800
+1006,2024-02-01,C006,Male,41,North,Grocery,6,150
+1007,2024-02-05,C007,Female,27,South,Electronics,1,18000
+1008,2024-02-09,C008,Male,36,East,Clothing,2,2500
+1009,2024-02-12,C009,Female,31,West,Grocery,8,120
+1010,2024-02-18,C010,Male,50,North,Electronics,1,30000
+1011,2024-03-02,C011,Female,22,South,Clothing,3,1500
+1012,2024-03-05,C012,Male,34,East,Grocery,10,100
+1013,2024-03-10,C013,Female,40,West,Electronics,2,20000
+1014,2024-03-15,C014,Male,28,North,Clothing,5,1700
+1015,2024-03-20,C015,Female,37,South,Grocery,7,180
